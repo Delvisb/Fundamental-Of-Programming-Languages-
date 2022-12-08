@@ -1,5 +1,16 @@
-/*  This is my Java program that uses an array of structs/objects that store student information 
-Created by Delvis Burgos                      */
+/* To understand the value of records in a programming language, write a small program in a C-based language ( C, C++, C#, Java, R) 
+that uses an array of structs/objects that store student information, including name, age, GPA as a float, and grade level as a string 
+(e.g., freshmen, etc.) Also, write the same program in the same language without using structs/objects. For instance, you can create a 
+student info array, prompt the user to enter the data values of each student, or initialize the array of structure, then print all student info. 
+Users should also be able to print students in certain grade levels, say print all-freshman student info. Think of another function, such as the 
+search for a particular name, GPA above a certain value, etc. Try to have at least two student processing functions. The program can prompt the 
+user to enter their function choices.
+*/
+
+/*
+This is my Java program that uses an array of structs/objects that store student information 
+Created by Delvis Burgos  
+*/
 
 import java.util.ArrayList;
 import java.util.Scanner;
